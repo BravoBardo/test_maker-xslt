@@ -6,24 +6,24 @@
       <tuv xml:lang="pt_br"><seg>Preparação</seg></tuv>
     </tu>
     <tu tuid="PreparationIntro">
-      <tuv xml:lang="en_us"><seg>This is the preparation phase...</seg></tuv>
-      <tuv xml:lang="pt_br"><seg>Está é a fase de preparação...</seg></tuv>
+      <tuv xml:lang="en_us"><seg>This is the preparation phase... ...here you prepare the test case.</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Está é a fase de preparação... ...aqui você prepara o caso de teste.</seg></tuv>
     </tu>
     <tu tuid="ExecutionTitle">
       <tuv xml:lang="en_us"><seg>Execution</seg></tuv>
       <tuv xml:lang="pt_br"><seg>Execução</seg></tuv>
     </tu>
     <tu tuid="ExecutionIntro">
-      <tuv xml:lang="en_us"><seg>This is the execution phase...</seg></tuv>
-      <tuv xml:lang="pt_br"><seg>Está é a fase de execução...</seg></tuv>
+      <tuv xml:lang="en_us"><seg>This is the execution phase... ...here you execute the test case.</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Está é a fase de execução... ...aqui você executa o caso de teste.</seg></tuv>
     </tu>
     <tu tuid="ResultTitle">
       <tuv xml:lang="en_us"><seg>Result</seg></tuv>
       <tuv xml:lang="pt_br"><seg>Resultado</seg></tuv>
     </tu>
     <tu tuid="ResultIntro">
-      <tuv xml:lang="en_us"><seg>This is the result phase...</seg></tuv>
-      <tuv xml:lang="pt_br"><seg>Está é a fase de resultado...</seg></tuv>
+      <tuv xml:lang="en_us"><seg>This is the result phase... ...here you check the test case result.</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Está é a fase de resultado... ...aqui você verifica os resultados do caso de teste.</seg></tuv>
     </tu>
   </body>
 </tmx>

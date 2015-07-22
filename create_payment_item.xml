@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="base/_pt_br.xsl"?>
+<testcase>
+	<title>
+		<lang code="en_us">Create Payment Item</lang>
+		<lang code="pt_br">Criar Item de Pagamento</lang>
+	</title>
+	<specification>SRS PR 28717 – Deposit in Brazilian Reais</specification>
+	<overview>
+		<lang code="en_us">In this test case we will create a payment item!</lang>
+		<lang code="pt_br">Neste test case iremos criar um item de pagamento!</lang>
+	</overview>
+	
+	<preparation>
+	</preparation>
+	
+	<execution>
+		<bca_paymitem_create>
+			<trnstype>080000</trnstype>
+			<account>
+				<banks>CA</banks>
+				<bankl>000000001</bankl>
+				<acnum_ext>0000001149</acnum_ext>
+				<iban></iban>
+			</account>
+			<date_post>20130228</date_post>
+			<date_value>20130228</date_value>
+			<remark>Payment item for test!</remark>
+			<basic_data>
+				<t_amount tcur="CAD">50</t_amount>
+				<a_amount acur="CAD">50</a_amount>
+				<payment_notes>
+					<paym_note paymnote_type="001">Av. SAP, 188</paym_note>
+				</payment_notes>
+			</basic_data>
+			<operation></operation>
+			<references></references>
+			<administration></administration>
+		</bca_paymitem_create>
+	</execution>
+	
+	<result>
+	</result>
+</testcase>

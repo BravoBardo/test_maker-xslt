@@ -10,11 +10,12 @@
 	<xsl:template match="/testcase">
 		<html>
 			<header>
-				<title><xsl:value-of select="title"/></title>
+				<title><xsl:value-of select="title/lang[@code=$lang]"/></title>
 			</header>
 			<body>
-				<h1><xsl:value-of select="title"/></h1>
+				<h1><xsl:value-of select="title/lang[@code=$lang]"/></h1>
 				<h2><xsl:value-of select="specification"/></h2>
+				<p><xsl:value-of select="overview/lang[@code=$lang]"/></p>
 				
 				<xsl:apply-templates select="preparation"/>
 				<xsl:apply-templates select="execution"/>
