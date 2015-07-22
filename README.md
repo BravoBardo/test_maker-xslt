@@ -1,2 +1,2 @@
-# test_maker-xslt
+# Test Maker [xslt edition]
 Test maker project, let's do this!
