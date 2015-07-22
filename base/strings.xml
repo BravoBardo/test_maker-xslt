@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <tmx>
   <body>
+  <!-- Sections-->
     <tu tuid="PreparationTitle">
       <tuv xml:lang="en_us"><seg>Preparation</seg></tuv>
       <tuv xml:lang="pt_br"><seg>Preparação</seg></tuv>
@@ -24,6 +25,11 @@
     <tu tuid="ResultIntro">
       <tuv xml:lang="en_us"><seg>This is the result phase... ...here you check the test case result.</seg></tuv>
       <tuv xml:lang="pt_br"><seg>Está é a fase de resultado... ...aqui você verifica os resultados do caso de teste.</seg></tuv>
+    </tu>
+  <!-- Steps: bca_paymitem_create -->
+    <tu tuid="bca_paymitem_createTitle">
+      <tuv xml:lang="en_us"><seg>Create Payment Item</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Criar Partidas de Pagamentos</seg></tuv>
     </tu>
   </body>
 </tmx>

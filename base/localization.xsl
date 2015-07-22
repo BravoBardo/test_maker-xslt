@@ -12,4 +12,5 @@
 	<xsl:param name="ResultTitle" select="$tmx/tu[@tuid='ResultTitle']/tuv[lang($lang)]/seg"/>
 	<xsl:param name="ResultIntro" select="$tmx/tu[@tuid='ResultIntro']/tuv[lang($lang)]/seg"/>
 	
+	<xsl:param name="bca_paymitem_createTitle" select="$tmx/tu[@tuid='bca_paymitem_createTitle']/tuv[lang($lang)]/seg"/>
 </xsl:stylesheet>
