@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<tmx>
+  <body>
+    <tu tuid="PreparationTitle">
+      <tuv xml:lang="en_us"><seg>Preparation</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Preparação</seg></tuv>
+    </tu>
+    <tu tuid="PreparationIntro">
+      <tuv xml:lang="en_us"><seg>This is the preparation phase...</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Está é a fase de preparação...</seg></tuv>
+    </tu>
+    <tu tuid="ExecutionTitle">
+      <tuv xml:lang="en_us"><seg>Execution</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Execução</seg></tuv>
+    </tu>
+    <tu tuid="ExecutionIntro">
+      <tuv xml:lang="en_us"><seg>This is the execution phase...</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Está é a fase de execução...</seg></tuv>
+    </tu>
+    <tu tuid="ResultTitle">
+      <tuv xml:lang="en_us"><seg>Result</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Resultado</seg></tuv>
+    </tu>
+    <tu tuid="ResultIntro">
+      <tuv xml:lang="en_us"><seg>This is the result phase...</seg></tuv>
+      <tuv xml:lang="pt_br"><seg>Está é a fase de resultado...</seg></tuv>
+    </tu>
+  </body>
+</tmx>

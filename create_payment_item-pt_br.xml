@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="base/_en_us.xsl"?>
+<?xml-stylesheet type="text/xsl" href="base/_pt_br.xsl"?>
 <testcase>
 	<title>Create Payment Item</title>
 	<specification>SRS PR 28717 – Deposit in Brazilian Reais</specification>
